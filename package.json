@@ -1,0 +1,17 @@
+{
+  "name": "node-rekognition",
+  "version": "1.0.0",
+  "description": "Nodejs rekognition face compares",
+  "main": "index.js",
+  "author": "fuadajip <fuadajipratomo@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.409.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
